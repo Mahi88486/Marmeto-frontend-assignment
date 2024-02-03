@@ -15,7 +15,7 @@
 # Getting Started
 * To run this project locally, follow these steps:
 
-* Clone this repository to your local machine using git clone https://github.com/your-username/marmeto-frontend-challenge.git
+* Clone this repository to your local machine using git clone https://github.com/Mahi88486/Marmeto-frontend-assignment.git
 * Open the index.html file in your preferred web browser.
 # Usage
 * Explore the webpage and use the "Add to Cart" button to add items to your cart.
